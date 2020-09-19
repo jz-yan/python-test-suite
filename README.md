@@ -1,14 +1,12 @@
 # Servv.ai Automated Test Suite Documentation
 
-Jason Yan
-
 This documentation details how to use, maintain and add onto the automated regression test suites for Servv.ai web application. A regression test suite is an organized collection of test cases that is regularly run to ensure software functionality after changes. These test cases are automated, meaning all test actions (e.g. clicking on buttons, filling in fields, looking for an element), are automatically performed in a standalone browser.
 
 The main languages used are Python and Gherkin supported by the Behave framework and Selenium webdriver. This documentation is up to date as of August 21st, 2020.
 
 # Servv.ai
 
-[https://wsebtest.servv.io/](https://wsebtest.servv.io/)
+[https://webtest.servv.io/](https://webtest.servv.io/)
 
 Servv.ai is a web application built on the Shopify platform that allows clients to create virtual events (video conferences or meetings), organized using Google Calendar, to be purchased by customers. Attendance for these events are done via Zoom.
 
